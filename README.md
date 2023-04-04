@@ -44,8 +44,11 @@ python main.py
 ## Examples
 
 Examples of previous version (The names of the people talking were set to "상대방" and "나")
-![Examples using my KakaoTalk data](./assets/image_example_1.jpeg)
-![Examples using my KakaoTalk data](./assets/image_example_2.jpeg)
+
+<p float="left">
+  <img src="./assets/image_example_1.jpeg" width="100" />
+  <img src="./assets/image_example_2.jpeg" width="100" />
+</p>
 
 - [ ] currently preparing a GIF
 
