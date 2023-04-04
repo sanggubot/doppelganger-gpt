@@ -13,7 +13,7 @@ def get_opponent_name(text: str) -> str:
 
 
 def mask_personal_info(chat: str, my_name: str, opponent_name: str) -> str:
-    masked_chat = chat.replace(opponent_name, "상대방").replace(my_name, "나")
+    masked_chat = chat.replace(opponent_name, "You").replace(my_name, "Doppelganger")
     return masked_chat
 
 
