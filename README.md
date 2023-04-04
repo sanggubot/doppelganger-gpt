@@ -4,38 +4,51 @@ This GitHub repository uses OpenAI API, vector search, and langchain to create a
 
 ## Installation
 
-To get started, run the following command in your terminal:
+To install the dependencies, run the following command:
 
-## Copy code
-
-`pip install -r requirements.txt`
-This will install all the required packages for the project.
+```
+pip install -r requirements.txt
+```
 
 ## Environment Variables
 
-Create a .env file in the root directory and add the following line to set up your OpenAI API key:
+Create a .env file in the root folder and add the following line:
 
-`OPENAI_API_KEY="OPENAI_API_KEY"`
-Replace OPENAI_API_KEY with your actual API key.
+```
+OPENAI_API_KEY="YOUR_OPENAI_API_KEY"
+```
 
-## Dataset
+Make sure to replace YOUR_OPENAI_API_KEY with your actual OpenAI API key.
 
-Export your KakaoTalk chat data and place it in data/kakaotalk_data/ with the filename KakaoTalkChats.txt.
+## Dataset Setup
 
-## Running the Project
+Export your KakaoTalk chat data and save it as KakaoTalkChats.txt. Then, move the file to the data/kakaotalk_data/ folder.
 
-Follow these steps to run the project:
+## Usage
 
-1. Navigate to the data/kakaotalk_data directory in your terminal:
+To process the data, run the following commands:
 
-`cd data/kakaotalk_data`
+```
+cd data/kakaotalk_data
+python process_data.py
+```
 
-2. Run the following command to generate a /db folder in the root directory:
+This will create a /db folder in the root directory.
 
-`python process_data.py`
+Next, run the following command to start the chatbot:
 
-3. Return to the root directory and run the following command to launch the program:
+```
+python main.py
+```
 
-`python main.py`
+## Examples
 
-We hope you enjoy using DoppelgangerGPT!
+Examples of previous version (The names of the people talking were set to "상대방" and "나")
+![Examples using my KakaoTalk data](./assets/image_example_1.jpeg)
+![Examples using my KakaoTalk data](./assets/image_example_2.jpeg)
+
+- [ ] currently preparing a GIF
+
+## Licence
+
+- [ ] currently writing a Licence
