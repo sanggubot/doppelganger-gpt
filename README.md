@@ -46,8 +46,8 @@ python main.py
 Examples of previous version (The names of the people talking were set to "상대방" and "나")
 
 <p float="left">
-  <img src="./assets/image_example_1.jpeg" width="100" />
-  <img src="./assets/image_example_2.jpeg" width="100" />
+  <img src="./assets/image_example_1.jpeg" height="200"/>
+  <img src="./assets/image_example_2.jpeg" height="200" />
 </p>
 
 - [ ] currently preparing a GIF
