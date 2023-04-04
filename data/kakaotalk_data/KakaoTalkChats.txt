@@ -1,0 +1,29 @@
+others_name 님과 카카오톡 대화
+저장한 날짜 : 2023년 1월 1일 오전 1:01
+
+
+2023년 1월 1일 오후 1:01
+2022년 1월 1일 오후 1:01, my_name : this is my example chat
+2022년 1월 1일 오후 1:01, others_name : this is other's splitted
+2022년 1월 1일 오후 1:01, others_name : example chat
+2022년 1월 1일 오후 1:01, my_name : this is my example chat
+2022년 1월 1일 오후 1:01, others_name : this is other's splitted
+2022년 1월 1일 오후 1:01, others_name : example chat
+2022년 1월 1일 오후 1:01, my_name : this is my example chat
+2022년 1월 1일 오후 1:01, others_name : this is other's splitted
+2022년 1월 1일 오후 1:01, others_name : example chat
+2022년 1월 1일 오후 1:01, my_name : this is my example chat
+2022년 1월 1일 오후 1:01, others_name : this is other's splitted
+2022년 1월 1일 오후 1:01, others_name : example chat
+2022년 1월 1일 오후 1:01, my_name : this is my example chat
+2022년 1월 1일 오후 1:01, others_name : this is other's splitted
+2022년 1월 1일 오후 1:01, others_name : example chat
+2022년 1월 1일 오후 1:01, my_name : this is my example chat
+2022년 1월 1일 오후 1:01, others_name : this is other's splitted
+2022년 1월 1일 오후 1:01, others_name : example chat
+2022년 1월 1일 오후 1:01, my_name : this is my example chat
+2022년 1월 1일 오후 1:01, others_name : this is other's splitted
+2022년 1월 1일 오후 1:01, others_name : example chat
+2022년 1월 1일 오후 1:01, my_name : this is my example chat
+2022년 1월 1일 오후 1:01, others_name : this is other's splitted
+2022년 1월 1일 오후 1:01, others_name : example chat

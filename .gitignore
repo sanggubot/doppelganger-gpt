@@ -1,0 +1,8 @@
+# Ignore venv folder
+venv/
+
+# Ignore .env file
+.env
+
+# Ignore db folder
+db/
