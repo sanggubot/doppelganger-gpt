@@ -1,5 +1,7 @@
 # DoppelgangerGPT
 
+![Python](https://img.shields.io/badge/python-v3.11-blue) ![Langchain](https://img.shields.io/badge/langchain-v0.0.130-blue)
+
 This GitHub repository uses OpenAI API, vector search, and langchain to create a personalized digital doppelganger that mimics your language and communication style. Doppelganger provides an AI-based chatbot experience that reflects the user's personality based on KakaoTalk chat data.
 
 ## Installation
